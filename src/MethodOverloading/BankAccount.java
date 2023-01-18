@@ -8,7 +8,6 @@ public class BankAccount {
     private String customerNumber;
 
     public BankAccount() {
-//        this("EE881129102931", 9200, "John Doe", "372 5555 5555");
         System.out.println("Empty constructor called.");
     }
 
