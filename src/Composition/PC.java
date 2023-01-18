@@ -12,6 +12,15 @@ public class PC {
         this.motherboard = motherboard;
     }
 
+    public void powerUp() {
+        pcCase.pressPowerButton();
+        drawBiosLogo();
+    }
+
+    private void drawBiosLogo() {
+        monitor.drawLogoAt(1250, 1100);
+    }
+
     public Case getPcCase() {
         return pcCase;
     }

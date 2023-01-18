@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dab642d7-3572-4891-87f6-f3354a7ec8a8" name="Changes" comment="Constructor added">
-      <change afterPath="$PROJECT_DIR$/src/Composition/Case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Composition/Dimensions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Composition/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Composition/Motherboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Composition/PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Composition/PcMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Composition/Resolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MethodOverloading/BankAccountMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodOverloading/BankAccountMain.java" afterDir="false" />
+    <list default="true" id="dab642d7-3572-4891-87f6-f3354a7ec8a8" name="Changes" comment="Composition">
+      <change beforePath="$PROJECT_DIR$/src/Composition/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Composition/PC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Composition/PcMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Composition/PcMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,13 +154,20 @@
       <option name="presentableId" value="LOCAL−00006" />
       <updated>1674037403436</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL−00007" summary="Composition">
+      <created>1674081388555</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1674081388555</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update" />
     <MESSAGE value="String.format() added" />
     <MESSAGE value="Constructor added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Constructor added" />
+    <MESSAGE value="Composition" />
+    <option name="LAST_COMMIT_MESSAGE" value="Composition" />
   </component>
 </project>

@@ -17,6 +17,10 @@ public class Monitor {
         System.out.println("Drawing pixel at " + x + ", " + y + " in color " + color);
     }
 
+    public void drawLogoAt(int x, int y) {
+        System.out.println("Drawing logo at " + x + ", " + y);
+    }
+
     public String getModel() {
         return model;
     }

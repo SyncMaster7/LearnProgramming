@@ -15,6 +15,8 @@ public class PcMain {
         thePC.getMotherboard().loadProgram("Kali Linux");
         thePC.getPcCase().pressPowerButton();
 
+        thePC.powerUp();
+
     }
 
 }
