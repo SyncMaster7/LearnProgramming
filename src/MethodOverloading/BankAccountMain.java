@@ -26,5 +26,6 @@ public class BankAccountMain {
 
         olegAccount.deposit(1_200_000);
         olegAccount.withdrawal(11_900);
+        System.out.println("Current balance: " + olegAccount.getBalance());
     }
 }
