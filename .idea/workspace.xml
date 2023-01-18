@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dab642d7-3572-4891-87f6-f3354a7ec8a8" name="Changes" comment="Composition">
-      <change beforePath="$PROJECT_DIR$/src/Composition/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Composition/PC.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Composition/PcMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Composition/PcMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,7 +159,13 @@
       <option name="presentableId" value="LOCAL−00007" />
       <updated>1674081388555</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL−00008" summary="Composition">
+      <created>1674081910770</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1674081910770</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
