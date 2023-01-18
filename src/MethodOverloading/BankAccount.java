@@ -1,9 +1,28 @@
+package MethodOverloading;
+
 public class BankAccount {
     private String number;
     private double balance;
     private String customerName;
     private String customerEmail;
     private String customerNumber;
+
+    public BankAccount() {
+//        this("EE881129102931", 9200, "John Doe", "372 5555 5555");
+        System.out.println("Empty constructor called.");
+    }
+
+    public BankAccount(String number, double balance, String customerName, String customerEmail,
+                       String customerNumber) {
+
+        System.out.println("Constructor with parameters called.");
+
+        this.number = number;
+        this.balance = balance;
+        this.customerName = customerName;
+        this.customerEmail = customerEmail;
+        this.customerNumber = customerNumber;
+    }
 
     public void deposit(double depositAmount) {
         this.balance += depositAmount;
