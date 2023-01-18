@@ -24,7 +24,7 @@ public class BankAccountMain {
         System.out.println("\n============= Oleg's Bank Account ==============");
         BankAccount olegAccount = new BankAccount("EE99110022338877", 1_000_000);
 
-        olegAccount.deposit(200);
+        olegAccount.deposit(1_200_000);
         olegAccount.withdrawal(11_900);
     }
 }
