@@ -12,6 +12,11 @@ public class BankAccount {
         System.out.println("Empty constructor called.");
     }
 
+    public BankAccount(String number, double balance) {
+        this(number, balance, "John Doe", "john.doe@email.com", "372 5555 5555");
+        System.out.println("Constructor with partial parameters called.");
+    }
+
     public BankAccount(String number, double balance, String customerName, String customerEmail,
                        String customerNumber) {
 
@@ -27,8 +32,8 @@ public class BankAccount {
     public void deposit(double depositAmount) {
         this.balance += depositAmount;
         System.out.println("Deposit processed. " + depositAmount + " added. Balance is " + this.balance);
-        System.out.println("Deposit processed. " + String.format("%.2f", depositAmount) +
-                "€ added. Balance is " + String.format("%.2f", this.balance) + "€");
+//        System.out.println("Deposit processed. " + String.format("%.2f", depositAmount) +
+//                "€ added. Balance is " + String.format("%.2f", this.balance) + "€");
     }
 
     public void withdrawal(double withdrawalAmount) {
