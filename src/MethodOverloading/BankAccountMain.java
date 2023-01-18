@@ -19,6 +19,5 @@ public class BankAccountMain {
 
         peteAccount.deposit(200);
         peteAccount.withdrawal(11000);
-
     }
 }

@@ -26,6 +26,9 @@ public class BankAccount {
 
     public void deposit(double depositAmount) {
         this.balance += depositAmount;
+        System.out.println("Deposit processed. " + depositAmount + " added. Balance is " + this.balance);
+        System.out.println("Deposit processed. " + String.format("%.2f", depositAmount) +
+                "€ added. Balance is " + String.format("%.2f", this.balance) + "€");
     }
 
     public void withdrawal(double withdrawalAmount) {
