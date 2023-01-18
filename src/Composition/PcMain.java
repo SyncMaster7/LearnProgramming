@@ -16,7 +16,5 @@ public class PcMain {
         thePC.getPcCase().pressPowerButton();
 
         thePC.powerUp();
-
     }
-
 }
