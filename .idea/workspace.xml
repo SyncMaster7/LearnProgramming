@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dab642d7-3572-4891-87f6-f3354a7ec8a8" name="Changes" comment="Arrays sorting">
+    <list default="true" id="dab642d7-3572-4891-87f6-f3354a7ec8a8" name="Changes" comment="Arrays sorting update">
       <change beforePath="$PROJECT_DIR$/src/Arrays/ArraysMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/ArraysMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -201,7 +201,13 @@
       <option name="presentableId" value="LOCAL−00013" />
       <updated>1674138521887</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL−00014" summary="Arrays sorting update">
+      <created>1674138743149</created>
+      <option name="number" value="LOCAL−00014" />
+      <option name="presentableId" value="LOCAL−00014" />
+      <updated>1674138743149</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -212,6 +218,7 @@
     <MESSAGE value="Encapsulation" />
     <MESSAGE value="Polymorphism updated" />
     <MESSAGE value="Arrays sorting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrays sorting" />
+    <MESSAGE value="Arrays sorting update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrays sorting update" />
   </component>
 </project>
