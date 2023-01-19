@@ -11,11 +11,11 @@ public class ArraysMain {
         int[] sortedDsc = sortArrayDsc(myIntegers);
         int[] sortedAsc = sortArrayAsc(myIntegers);
 
-        System.out.println("\n===== Initial array of integers =====");
+        System.out.println("\n===== Initial array of integers =====\n");
         printArray(myIntegers);
-        System.out.println("\n===== Sorted array of integers, 'DSC' order =====");
+        System.out.println("\n===== Sorted array of integers, 'DSC' order =====\n");
         printArray(sortedDsc);
-        System.out.println("\n===== Sorted array of integers, 'ASC' order =====");
+        System.out.println("\n===== Sorted array of integers, 'ASC' order =====\n");
         printArray(sortedAsc);
     }
 
