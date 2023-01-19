@@ -19,17 +19,6 @@ public class ArraysMain {
         printArray(sortedAsc);
     }
 
-    public static int getArrayLength() {
-        System.out.println("How many numbers would you like to insert?");
-        int capacity = 0;
-        int userInput = sc.nextInt();
-
-            if (sc.nextInt() > 0 && sc.nextInt() <= 100) {
-                capacity = userInput;
-            }
-        return capacity;
-    }
-
     public static int[] getIntegers() {
         System.out.println("How many numbers would you like to insert?");
         int capacity = sc.nextInt();

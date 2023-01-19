@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dab642d7-3572-4891-87f6-f3354a7ec8a8" name="Changes" comment="Polymorphism updated">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ArraysMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="dab642d7-3572-4891-87f6-f3354a7ec8a8" name="Changes" comment="Arrays sorting">
+      <change beforePath="$PROJECT_DIR$/src/Arrays/ArraysMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/ArraysMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,7 +195,13 @@
       <option name="presentableId" value="LOCAL−00012" />
       <updated>1674088374660</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL−00013" summary="Arrays sorting">
+      <created>1674138521887</created>
+      <option name="number" value="LOCAL−00013" />
+      <option name="presentableId" value="LOCAL−00013" />
+      <updated>1674138521887</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -206,6 +211,7 @@
     <MESSAGE value="Composition" />
     <MESSAGE value="Encapsulation" />
     <MESSAGE value="Polymorphism updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism updated" />
+    <MESSAGE value="Arrays sorting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrays sorting" />
   </component>
 </project>
