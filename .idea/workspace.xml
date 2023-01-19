@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dab642d7-3572-4891-87f6-f3354a7ec8a8" name="Changes" comment="Find minimum value in an array updated">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ReverseArray.java" afterDir="false" />
+    <list default="true" id="dab642d7-3572-4891-87f6-f3354a7ec8a8" name="Changes" comment="Reversing an array">
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/GroceryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/GroceryListMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +40,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ReverseArray">
+  <component name="RunManager" selected="Application.GroceryListMain">
     <configuration name="ArraysMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.ArraysMain" />
       <module name="LearnProgramming" />
@@ -78,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrinterMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Encapsulation.PrinterMain" />
+    <configuration name="GroceryListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayList.GroceryListMain" />
       <module name="LearnProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Encapsulation.*" />
+          <option name="PATTERN" value="ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GroceryListMain" />
         <item itemvalue="Application.ReverseArray" />
         <item itemvalue="Application.FindMinimumValueInArray" />
         <item itemvalue="Application.ArraysMain" />
         <item itemvalue="Application.CarMain" />
-        <item itemvalue="Application.PrinterMain" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +233,13 @@
       <option name="presentableId" value="LOCAL−00018" />
       <updated>1674141266263</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL−00019" summary="Reversing an array">
+      <created>1674141805846</created>
+      <option name="number" value="LOCAL−00019" />
+      <option name="presentableId" value="LOCAL−00019" />
+      <updated>1674141805846</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -245,6 +253,7 @@
     <MESSAGE value="Arrays sorting update" />
     <MESSAGE value="Find minimum value in an array added" />
     <MESSAGE value="Find minimum value in an array updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Find minimum value in an array updated" />
+    <MESSAGE value="Reversing an array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reversing an array" />
   </component>
 </project>
