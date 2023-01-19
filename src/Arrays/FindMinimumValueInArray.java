@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class FindMinimumValueInArray {
 
-    private static Scanner sc = new Scanner(System.in); // using private static for encapsulation reason.
+    private static final Scanner sc = new Scanner(System.in); // using private static for encapsulation reason.
 
     public static void main(String[] args) {
         System.out.println("Enter number count: ");
@@ -33,9 +33,7 @@ public class FindMinimumValueInArray {
     private static int findMinimumValue(int[] array) {
         int minValue = Integer.MAX_VALUE;
 
-        for (int i = 0; i < array.length; i++) {
-            int value = array[i];
-
+        for (int value : array) {
             if (value < minValue) {
                 minValue = value;
             }
