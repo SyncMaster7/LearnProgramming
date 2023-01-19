@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class GroceryListMain {
 
-    private static Scanner sc = new Scanner(System.in);
-    private static GroceryList groceryList = new GroceryList();
+    private static final Scanner sc = new Scanner(System.in);
+    private static final GroceryList groceryList = new GroceryList();
 
     public static void main(String[] args) {
 
@@ -30,6 +30,7 @@ public class GroceryListMain {
     }
 
     public static void printInstructions() {
+
         System.out.println("\nPress\n");
         System.out.println("\t 0 - To print choice options.");
         System.out.println("\t 1 - To print the list of grocery items.");

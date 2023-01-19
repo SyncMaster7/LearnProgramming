@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dab642d7-3572-4891-87f6-f3354a7ec8a8" name="Changes" comment="Reversing an array">
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/GroceryList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/GroceryListMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="dab642d7-3572-4891-87f6-f3354a7ec8a8" name="Changes" comment="ArrayList added">
+      <change beforePath="$PROJECT_DIR$/src/ArrayList/GroceryListMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayList/GroceryListMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,7 +237,13 @@
       <option name="presentableId" value="LOCAL−00019" />
       <updated>1674141805846</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL−00020" summary="ArrayList added">
+      <created>1674146218215</created>
+      <option name="number" value="LOCAL−00020" />
+      <option name="presentableId" value="LOCAL−00020" />
+      <updated>1674146218215</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -254,6 +258,7 @@
     <MESSAGE value="Find minimum value in an array added" />
     <MESSAGE value="Find minimum value in an array updated" />
     <MESSAGE value="Reversing an array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reversing an array" />
+    <MESSAGE value="ArrayList added" />
+    <option name="LAST_COMMIT_MESSAGE" value="ArrayList added" />
   </component>
 </project>
